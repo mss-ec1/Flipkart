@@ -1,3 +1,3 @@
 Hello,
 
-Git commands are very important
+hi Git commands are very important.
